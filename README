@@ -1,0 +1,20 @@
+Ultimate Warlock
+-------------------
+
+Controls
+	D-Pad - Moves Player through world
+	A - Use spell
+	B - Change spell
+
+You are a shifty warlock seeking ultimate power but the witches and wizards are the ones who hold the secrets of spellcraft. Traverse the land blasting enemies to steal magical spells, increasing your power until you are the Ultiamte Warlock!
+
+Version 0.0.2
+-Added Background Music
+-Adjusted spawning behavior
+-Coins now come from the chest
+-Players are less likely to be ejected from the scene
+-General bugfixes and improvement
+
+
+Version 0.0.1
+-Inital Version
